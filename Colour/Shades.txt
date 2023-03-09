@@ -1,0 +1,7 @@
+Lightest to Darkest
+#e9caaa
+#7c5835
+#7c5835
+#4c2b21
+#2e1915
+#0f080e
